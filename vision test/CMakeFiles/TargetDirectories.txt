@@ -1,0 +1,3 @@
+/Users/vika/Robotics/Robomagellan/CMakeFiles/rebuild_cache.dir
+/Users/vika/Robotics/Robomagellan/CMakeFiles/edit_cache.dir
+/Users/vika/Robotics/Robomagellan/CMakeFiles/ColorDetect.dir
